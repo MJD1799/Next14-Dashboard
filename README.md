@@ -20,12 +20,13 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Reference 
 
-To learn more about Next.js, take a look at the following resources:
+This project has implemented the next14 features, to get familiar with the architecture :
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication) - to add protected routes
 
 
 
